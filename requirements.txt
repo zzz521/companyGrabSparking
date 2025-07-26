@@ -1,0 +1,7 @@
+opencv-python==4.8.1.78
+pillow==10.0.1
+pytesseract==0.3.10
+adb-shell==0.4.4
+pure-python-adb==0.3.0.dev0
+numpy==1.24.3
+requests==2.31.0
